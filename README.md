@@ -6,6 +6,7 @@ Waves has two goals to incentivize productivity to everyone for free and help en
 - Get to iteration and market testing asap
 - scope creep 
 
+# The Plan
 ABC (all of us) = Bottom Navigation Bar (setup)
 
 A = Angela
