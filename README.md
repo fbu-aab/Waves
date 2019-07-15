@@ -27,7 +27,7 @@ C = Aweys
 
 ![AssignmentDistribution.jpg]
 
-# List of Potential Stretch Goals:
+# List of Potential Stretch Goals: 
 - Tap for adding
 - Gesture movement instead of navigation bar based
 - Sharing to some sort of messaging app (e.g. email, messages, etc)
