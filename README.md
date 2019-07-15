@@ -25,7 +25,7 @@ C = Aweys
 - Adding item
 - Number of items
 
-![]
+![AssignmentDistribution.jpg]
 
 # List of Potential Stretch Goals:
 - Tap for adding
