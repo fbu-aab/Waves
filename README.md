@@ -6,6 +6,26 @@ Waves has two goals to incentivize productivity to everyone for free and help en
 - Get to iteration and market testing asap
 - scope creep 
 
+ABC (all of us) = Bottom Navigation Bar (setup)
+
+A = Angela
+- populate home page
+- animate fish tank page
+- remove item
+- pop-up
+
+B = Briana
+- Setting up category list using recycler view
+- item persistance
+- item list and reminders (connected to calendar)
+
+C = Aweys
+- Calendar
+- Adding item
+- Number of items
+
+![]
+
 # List of Potential Stretch Goals:
 - Tap for adding
 - Gesture movement instead of navigation bar based
