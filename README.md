@@ -11,17 +11,17 @@ ABC (all of us) = Bottom Navigation Bar (setup)
 
 A = Angela
 - animate fish tank page
-- remove item
-- pop-up
 
 B = Briana
 - populate home page
-- Setting up category list using recycler view
+- remove item??
+- pop-up
 - item persistance
 - item list and reminders (connected to calendar)
 
 C = Aweys
 - Calendar
+- Setting up category list using recycler view
 - Adding item
 - Number of items
 
