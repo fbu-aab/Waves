@@ -10,19 +10,18 @@ Waves has two goals to incentivize productivity to everyone for free and help en
 ABC (all of us) = Bottom Navigation Bar (setup)
 
 A = Angela
-- animate fish tank page
+- animate fish tank page (WEDNESDAY)
 
 B = Briana
 - populate home page
 - remove item??
 - pop-up
-- item persistance
-- item list and reminders (connected to calendar)
+- category and item persistance
+- item list and reminders and calendar (WEDNESDAY)
 
 C = Aweys
 - Calendar
-- Setting up category list using recycler view
-- Adding item
+- Setting up category list using recycler view and adding item + editing (WEDNESDAY)
 - Number of items
 
 ![](AssignmentDistribution.jpg)
