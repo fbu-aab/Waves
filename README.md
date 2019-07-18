@@ -30,3 +30,18 @@ C = Aweys
 - Tap for adding
 - Gesture movement instead of navigation bar based
 - Sharing to some sort of messaging app (e.g. email, messages, etc)
+
+July 18th - minor fixes:
+- back button (briana)
+- fix link spacing (1 line)(briana)
+- remove (angela)
+- remove testing code from fish tank (angela)
+- persistence in category + items within (briana)
+- persistence writing in background (briana)
+- focus/cursor (aweys)
+- count for categories and tasks (aweys)
+
+afterwards:
+- incorporate calendar from briana's todo list (briana)
+- connect date picker and calendar (briana and angela cuz its their babies)
+- pop-up for removing tasks and research into faux (optional: real?) ads
