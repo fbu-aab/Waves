@@ -32,12 +32,12 @@ C = Aweys
 - Sharing to some sort of messaging app (e.g. email, messages, etc)
 
 July 18th - minor fixes:
-- [ ] back button (briana)
+- [x] back button (briana)
 - [ ] fix link spacing (1 line)(briana)
 - [ ] remove (angela)
 - [x] remove testing code from fish tank (angela)
-- [ ] persistence in category + items within (briana)
-- [ ] persistence writing in background (briana)
+- [x] persistence in category + items within (briana)
+- [x] persistence writing in background (briana)
 - [ ] focus/cursor (aweys)
 - [ ] count for categories and tasks (aweys)
 
