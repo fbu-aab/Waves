@@ -38,10 +38,10 @@ July 18th - minor fixes:
 - [x] remove testing code from fish tank (angela)
 - [x] persistence in category + items within (briana)
 - [x] persistence writing in background (briana)
-- [ ] focus/cursor (aweys)
+- [x] focus/cursor (aweys)
 - [ ] count for categories and tasks (aweys)
 
 afterwards:
-- [ ] incorporate calendar from briana's todo list (briana)
-- [ ] connect date picker and calendar (briana and angela cuz its their babies)
+- [x] incorporate calendar from briana's todo list (briana)
+- [x] connect date picker and calendar (briana and angela cuz its their babies)
 - [ ] pop-up for removing tasks and research into faux (optional: real?) ads
